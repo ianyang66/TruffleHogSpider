@@ -1,0 +1,6 @@
+requests
+tldextract
+jsbeautifier
+beautifulsoup4
+truffleHogRegexes
+colorama
